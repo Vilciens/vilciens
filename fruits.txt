@@ -1,1 +1,1 @@
-& C:/Users/Skolens2/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Skolens2/Downloads/Jauna mape/4 uzd.py"
+& C:/Users/Skolens2/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Skolens2/Downloads/Jauna mape/4 uzd.py"burgers
