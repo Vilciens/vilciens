@@ -1,1 +1,1 @@
-âbols grapefruits banana
+& C:/Users/Skolens2/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Skolens2/Downloads/Jauna mape/1uzd.py"
