@@ -8,7 +8,7 @@ try:
         for row in reader:
             if len(row)>1:
                 novads=row[1].strip()
-                novads_counter[novads] +=1
+                novads_counter[novads]+=1
     most_common_novads=novads_counter.most_common(1)
     print('Novads kurš visvairāk atkārtojas:')
     for novads, count in most_common_novads:
