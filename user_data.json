@@ -1,0 +1,10 @@
+{
+  "name": "snoop dawg",
+  "age": 40,
+  "email": "what is tuple",
+  "hobbies": [
+    "reading",
+    "hiking",
+    "photographing"
+  ]
+}

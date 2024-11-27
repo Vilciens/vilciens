@@ -1,0 +1,9 @@
+{
+    "products": [
+        {"name": "Maize", "price": 2.50},
+        {"name": "Piens", "price": 1.80},
+        {"name": "Siers", "price": 12.90},
+        {"name": "Āboli", "price": 3.20},
+        {"name": "Šokolāde", "price": 4.50}
+    ]
+}
